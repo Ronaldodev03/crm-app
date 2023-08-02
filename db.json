@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "empresa 1",
+      "email": "juan@correo.com",
+      "telefono": "102013313",
+      "notas": "hjkj",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "empresa 2",
+      "email": "karen@correo.com",
+      "telefono": "138198313",
+      "notas": "dvfvd",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@correo.com",
+      "empresa": "empresa 3"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@correo.com",
+      "empresa": "empresa 4"
+    }
+  ]
+}
