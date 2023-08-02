@@ -71,7 +71,7 @@ const NuevoCliente = () => {
           <Formulario />
           <input
             type="submit"
-            className=" mt-5 uppercase p-3 bg-blue-800 w-full text-lg text-white font-bold"
+            className=" mt-5 uppercase p-3 bg-blue-800 w-full text-lg text-white font-bold cursor-pointer"
             value="Registrar Cliente"
           />
         </Form>
